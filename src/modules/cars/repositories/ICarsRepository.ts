@@ -1,0 +1,8 @@
+
+
+interface ICarsRepository {
+
+
+}
+
+export { ICarsRepository }
